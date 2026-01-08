@@ -7,7 +7,7 @@
 
 ---
 
-## Proje Özeti
+## 
 **GELSİN**, müşterinin restorandan yemek siparişi verdiği; restoranın siparişi kabul/ret ettiği ve kuryenin siparişi alıp teslim ettiği uçtan uca bir sipariş yönetim sistemidir.
 
 
