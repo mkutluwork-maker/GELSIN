@@ -3,7 +3,7 @@
 **Slogan:** *“Sipariş ver, gelsin!”*
 
 - **Hazırlayan:** Muhammet KUTLU
-- **Repo:** `https://github.com/<kullanici_adi>/gelsin` *(burayı kendi linkinle değiştir)*
+- **Repo:** `https://github.com/mkutluwork-maker/GELSIN`
 
 ---
 
