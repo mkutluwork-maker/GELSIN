@@ -1,6 +1,6 @@
 # GELSİN — Yemek Sipariş & Teslimat Sistemi
-
-**Slogan:** *“Sipariş ver, gelsin!”*
+  
+  *“Sipariş ver, gelsin!”*
 
 - **Hazırlayan:** Muhammet KUTLU
 - **Repo:** `https://github.com/mkutluwork-maker/GELSIN`
